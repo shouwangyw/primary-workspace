@@ -1,4 +1,4 @@
-package com.alg.L07_greedy;
+package com.yw.alg.L07_greedy;
 
 import java.util.*;
 

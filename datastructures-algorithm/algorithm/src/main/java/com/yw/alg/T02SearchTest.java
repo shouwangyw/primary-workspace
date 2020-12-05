@@ -1,7 +1,7 @@
-package com.alg;
+package com.yw.alg;
 
-import com.alg.L02_search.AbstractSearch;
-import com.alg.L02_search.FibonacciSearch;
+import com.yw.alg.L02_search.AbstractSearch;
+import com.yw.alg.L02_search.FibonacciSearch;
 
 import java.util.List;
 

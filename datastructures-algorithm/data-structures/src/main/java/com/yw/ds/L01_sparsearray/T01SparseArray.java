@@ -1,4 +1,4 @@
-package com.ds.L01_sparsearray;
+package com.yw.ds.L01_sparsearray;
 
 import java.io.*;
 
@@ -27,7 +27,7 @@ import java.io.*;
  */
 public class T01SparseArray {
     private static int[][] chessArr;
-    private static final String FILENAME = "data-structures_algorithm/data-structures/resources/sparse.arr";
+    private static final String FILENAME = "classpath:sparse.arr";
 
     public static void main(String[] args) throws IOException {
         // 1、初始化二维数组

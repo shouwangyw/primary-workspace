@@ -1,7 +1,7 @@
-package com.alg;
+package com.yw.alg;
 
-import com.alg.L01_sort.AbstractSort;
-import com.alg.L01_sort.HeapSort;
+import com.yw.alg.L01_sort.AbstractSort;
+import com.yw.alg.L01_sort.HeapSort;
 
 import java.util.Arrays;
 

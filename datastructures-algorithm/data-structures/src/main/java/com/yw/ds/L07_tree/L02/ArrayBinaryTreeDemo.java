@@ -1,4 +1,4 @@
-package com.ds.L07_tree.L02;
+package com.yw.ds.L07_tree.L02;
 
 /**
  * 顺序存储二叉树案例

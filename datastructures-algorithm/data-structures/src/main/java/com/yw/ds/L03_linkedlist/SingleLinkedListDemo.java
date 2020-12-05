@@ -1,4 +1,4 @@
-package com.ds.L03_linkedlist;
+package com.yw.ds.L03_linkedlist;
 
 /**
  * 单向链表

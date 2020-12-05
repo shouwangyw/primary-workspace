@@ -1,4 +1,4 @@
-package com.alg.L06_kmp;
+package com.yw.alg.L06_kmp;
 
 /**
  * 暴力匹配

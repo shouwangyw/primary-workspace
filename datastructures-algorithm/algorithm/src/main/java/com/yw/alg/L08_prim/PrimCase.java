@@ -1,4 +1,4 @@
-package com.alg.L08_prim;
+package com.yw.alg.L08_prim;
 
 import java.util.Arrays;
 

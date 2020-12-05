@@ -4,3 +4,5 @@
 - stack : 栈
 - recursion : 递归
 - hashtab : 哈希表
+- tree : 树
+- graph : 图

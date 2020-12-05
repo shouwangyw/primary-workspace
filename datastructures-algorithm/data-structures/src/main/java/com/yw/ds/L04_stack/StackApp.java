@@ -1,4 +1,4 @@
-package com.ds.L04_stack;
+package com.yw.ds.L04_stack;
 
 import java.util.Scanner;
 

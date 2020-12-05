@@ -1,4 +1,4 @@
-package com.alg.L05_dynamic;
+package com.yw.alg.L05_dynamic;
 
 /**
  * 动态规划最佳实践-背包问题

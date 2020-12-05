@@ -1,4 +1,4 @@
-package com.ds.L02_queue;
+package com.yw.ds.L02_queue;
 
 /**
  * 定义一个队列接口

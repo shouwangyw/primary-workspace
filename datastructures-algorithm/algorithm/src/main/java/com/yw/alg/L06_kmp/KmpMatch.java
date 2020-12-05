@@ -1,4 +1,4 @@
-package com.alg.L06_kmp;
+package com.yw.alg.L06_kmp;
 
 import java.util.Arrays;
 

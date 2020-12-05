@@ -1,4 +1,4 @@
-package com.alg.L09_kruskal;
+package com.yw.alg.L09_kruskal;
 
 import java.util.ArrayList;
 import java.util.Collections;

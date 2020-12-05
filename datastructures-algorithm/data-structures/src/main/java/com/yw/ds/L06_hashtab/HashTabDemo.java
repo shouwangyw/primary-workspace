@@ -1,4 +1,4 @@
-package com.ds.L06_hashtab;
+package com.yw.ds.L06_hashtab;
 
 import java.util.Scanner;
 

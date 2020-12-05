@@ -1,4 +1,4 @@
-package com.alg.practice;
+package com.yw.alg.practice;
 
 /**
  * @author yangwei

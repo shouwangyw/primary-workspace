@@ -1,4 +1,4 @@
-package com.alg.L12_horse;
+package com.yw.alg.L12_horse;
 
 import java.awt.*;
 import java.util.ArrayList;

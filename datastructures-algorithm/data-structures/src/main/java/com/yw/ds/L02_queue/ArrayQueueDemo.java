@@ -1,4 +1,4 @@
-package com.ds.L02_queue;
+package com.yw.ds.L02_queue;
 
 /**
  * 数组模拟实现Queue

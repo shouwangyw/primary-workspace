@@ -1,4 +1,4 @@
-package com.alg.L10_dijkstra;
+package com.yw.alg.L10_dijkstra;
 
 import java.util.Arrays;
 
