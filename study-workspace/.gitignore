@@ -1,0 +1,38 @@
+target/
+test-output/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.idea/*
+
+### other ###
+sonarResult.txt
+sonarResult.txt
+sonarResult.txt
+
+*.zip
+*.7z
+*.gz
+CloudUDM/src/main/resources/static/
+CloudUDM/src/main/resources/templates/
+drm-edi-3.1.01.jar
