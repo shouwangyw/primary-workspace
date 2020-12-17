@@ -1,6 +1,7 @@
 package com.yw.ds.L01_sparsearray;
 
 import java.io.*;
+import java.util.Scanner;
 
 /**
  * 原始数组
@@ -8,7 +9,7 @@ import java.io.*;
  * 0	0	1	0	0	0	0	0	0	0	0
  * 0	0	0	2	0	0	0	0	0	0	0
  * 0	0	0	0	0	0	0	0	0	0	0
- * 0	0	0	0	0	0	0	0	0	0	0
+ * 0	0	0	0	0	1	0	0	0	0	0
  * 0	0	0	0	0	0	0	0	0	0	0
  * 0	0	0	0	0	0	0	0	0	0	0
  * 0	0	0	0	0	0	0	0	0	0	0
@@ -26,10 +27,12 @@ import java.io.*;
  * @date 2020-05-02 22:22
  */
 public class T01SparseArray {
+    private static Scanner scanner;
     private static int[][] chessArr;
     private static final String FILENAME = "classpath:sparse.arr";
 
     public static void main(String[] args) throws IOException {
+        System.out.println(scanner.hasNext());
         // 1、初始化二维数组
         initOrgTwoDimArr();
         // 2、二维数组 转 稀疏数组
