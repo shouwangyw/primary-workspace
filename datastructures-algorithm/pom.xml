@@ -18,7 +18,16 @@
   <modules>
     <module>algorithm</module>
     <module>data-structures</module>
+    <module>leetcode</module>
     <module>niuke</module>
+<!--    <module>oj</module>-->
   </modules>
 
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+    </dependency>
+  </dependencies>
 </project>
